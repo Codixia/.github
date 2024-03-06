@@ -1,12 +1,26 @@
-## Hi there 👋
+# Skriptio
 
-<!--
+Skriptio is a web development and application team passionate about creating innovative and high-quality products. We are a public team and welcome contributors from all backgrounds.
 
-**Here are some ideas to get you started:**
+## What We Do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We specialize in the following areas:
+
+- Web development (front-end and back-end)
+- Mobile and desktop application development
+- User interface and user experience design
+- Project and product management
+
+## How to Contribute
+
+We are always looking for new contributors to help us improve our projects. If you are interested, please see our contributing guide for more details.
+
+## Our Projects
+
+Here are some of the projects we are currently working on:
+
+- [Project 1](https://github.com/Skriptio/project-1): a Linux-style WebOS inspired by DeepinOS
+
+## Contact Us
+
+If you have any questions or comments, please don't hesitate to contact us at [contact@skriptio.com](mailto:contact@skriptio.com). We'd love to hear from you!
